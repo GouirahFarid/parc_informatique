@@ -1,0 +1,19 @@
+.commande,.commande2{
+    margin-top: 15%;
+    width: 40%;
+    background-color: #cdc7cc;
+    border-radius: 5%;
+}
+.commande2{
+    margin-top:8%;
+    width: 40%;
+    background-color: #cdc7cc;
+    border-radius: 5%;
+}
+label,.btnSave,.alert-danger{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.obligatoire{
+    color: red;
+}

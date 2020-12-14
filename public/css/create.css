@@ -1,0 +1,20 @@
+.addCat,.addSousCat{
+    margin-top:10%;
+   width: 40%;
+    height: 400px;
+    background-color: #fff9fe;
+    border-radius: 10%;
+}
+.h2{
+    margin-top: 60px;
+}
+form{
+    margin-top: 20px;
+}
+.obligatoire{
+    color:red;
+}
+.alert-danger{
+    margin-top: 40px;
+}
+

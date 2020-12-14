@@ -1,0 +1,28 @@
+body{
+    background-color: #617cad;
+    font-family: "Arial Rounded MT Bold";
+}
+.slogo{
+    margin-top: 3%;
+    height: 100px;
+    background-color: #2e2c62;
+    color:#FFF;
+}
+.signIn{
+    width: 30%;
+    margin-top: 100px;
+    border: 3px solid #620d5a;
+    padding: 30px;
+    border-radius: 3%;
+}
+a{text-decoration: none;
+    color: #FFF;
+}
+a:hover{
+    text-decoration: none;
+    color: #ffdd13;
+}
+.obligatoire,.label{
+    color: red;
+}
+

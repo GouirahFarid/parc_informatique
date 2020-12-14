@@ -1,0 +1,40 @@
+.addIn{
+ margin-top: 80px;
+    width: 60%;
+    background-color: #fbffff;
+    border-radius: 5%;
+    padding: 20px;
+}
+.updateIn{
+    background-color: #fbffff;
+    width: 60%;
+    padding: 20px;
+    border-radius: 5%;
+    margin-top: 80px;
+}
+.obligatoire{
+    color: red;
+}
+.btnSave{
+    margin-bottom: 10px;
+}
+.classForm{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.alert-danger{
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.formProbleme{
+    display: none;
+    margin-top: 10px;
+}
+.btnProbleme{
+    margin-top: 10px;
+}
+th{
+    background-color: #1b1e21;
+    color:#FFF;
+}

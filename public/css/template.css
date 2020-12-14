@@ -1,0 +1,41 @@
+
+body{
+    background-color: #617cad;
+    font-family:"Arial Rounded MT Bold";
+}
+.navbar{
+    background-color: #2e2c62;
+}
+.drop:hover{
+    background-color: #e17410;
+    color:#FFF;
+}
+a:hover{
+    text-decoration: none;
+}
+.glyphicon{
+    margin-right: 3px;
+}
+table{
+    background-color: #FFFFFF;
+}
+.glyphicon-remove{
+    color: #ff0900;
+}
+.glyphicon-ok{
+    color: #3ebc1d;
+}
+.text-center,.table-responsive{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+th{
+    background-color: #1b1e21;
+    color:#FFF;
+}
+.a{
+    color: #FFF;
+}
+.a:hover{
+    color: #FFF;
+}
